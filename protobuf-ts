@@ -1,0 +1,1 @@
+#!/usr/bin/env npx tsx ./node_modules/protobuf-as/src/main.ts
